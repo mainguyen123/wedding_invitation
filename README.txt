@@ -1,10 +1,10 @@
 PURPOSE: Present for my bestie's wedding
 
 TITLE: 
-Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
+Wedding - An Lai & Khac Hieu Wedding &mdash; Nov 22th 2020
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED by jndsolutions.com
 
 Website: http://gettemplates.co/
 Twitter: http://twitter.com/gettemplatesco
