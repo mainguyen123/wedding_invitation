@@ -1,3 +1,4 @@
+PURPOSE: Present for my bestie's wedding
 
 TITLE: 
 Wedding - 100% Fully Responsive Free HTML5 Bootstrap Template
